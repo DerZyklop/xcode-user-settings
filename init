@@ -1,0 +1,11 @@
+GITFOLDER=$PWD
+echo $GITFOLDER
+rm -r ~/Library/Developer/Xcode/UserData
+
+ln -s $GITFOLDER/UserData ~/Library/Developer/Xcode/
+
+tput setaf 2
+echo "-----------––--------------––--------------"
+echo "Ready! Xcode should be nice now."
+echo "-----------––--------------––--------------"
+tput sgr0
