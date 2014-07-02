@@ -11,7 +11,7 @@
 	<key>DVTConsoleDebuggerOutputTextFont</key>
 	<string>FiraMono - 18.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
-	<string>0.255 0.714 0.27 1</string>
+	<string>0.289963 0.696438 0.299578 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
 	<string>FiraMono - 18.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
@@ -39,7 +39,7 @@
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextSelectionColor</key>
-	<string>0.397 0.397 0.302 1</string>
+	<string>0.260449 0.319567 0.340926 1</string>
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
